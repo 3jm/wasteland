@@ -5,7 +5,7 @@
 | Version | Supported          | Browser |
 | ------- | ------------------ |----------
 | 91.0.4472.77   | :white_check_mark: | Google Chrome
-| 46.3.13  | :x:                | Microsoft Edge
+| 46.3.13  | :white_check_mark:       | Microsoft Edge
 
 ## Supported Versions
 
