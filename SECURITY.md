@@ -7,12 +7,14 @@
 | 91.0.4472.77   | :white_check_mark: | Google Chrome
 | 46.3.13  | :white_check_mark:       | Microsoft Edge
 
-## Supported Versions
+## Supported Devices
 
 | Device | OS | Notes |
 |--------|----|-------|
 | Apple  | 13.0+ | Fixing zoom glitch.
 | Android | 11 | None
+| Windows | Latest | None
+| Mac OS | Latest | None
 
 ## Reporting a Vulnerability
 
